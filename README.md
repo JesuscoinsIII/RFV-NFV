@@ -1,14 +1,12 @@
 # RFV-NFV
 
-A Regeneratie Finance Platform for Non Fungible Volunteers around the globe creating a secure, sustainable, equitable volunteer excange. 
-
-Here's a breakdown of your vision and a prompt to consolidate it into a clear, actionable format:
+A Regenerative Finance Platform for Non-Fungible Volunteers around the globe creating a secure, sustainable, equitable volunteer exchange.
 
 ---
 
 ### **Prompt for Network Overview**
 
-"Update the Bolt network documentation to reflect the following structure and tokenomics. Include clear explanations of how each component interacts and graphs illustrating the relationships and flow of funds within the ecosystem. Highlight how the network secures stable assets backed by future events. Details include:
+"Update the Bolt network documentation to reflect the following structure and tokenomics. Include clear explanations of how each component interacts and graphs illustrating relationships and flows."
 
 ---
 
@@ -84,7 +82,7 @@ Here's a breakdown of your vision and a prompt to consolidate it into a clear, a
 - Outline the role of tokenized systems (Hand Tokens) in onboarding and engagement.  
 - Explain mechanisms for securing assets backed by future events.  
 
-Update this in the Bolt documentation to ensure consistency across all platforms. Provide a summary for easy onboarding and a detailed technical breakdown for developers and stakeholders."
+Update this in the Bolt documentation to ensure consistency across all platforms. Provide a summary for easy onboarding and a detailed technical breakdown for developers and stakeholders.
 
 ---
 
